@@ -1,4 +1,4 @@
-package com.vdidev.atm.study.atmhost
+package com.vdidev.atm.study
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
